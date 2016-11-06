@@ -1,2 +1,4 @@
-# GitHub-docs
-GitHub for everyone. Here you may find docs, manuals, tutorials on GitHub.
+# GitHub docs
+
+GitHub for everyone.     
+Here you can find docs, manuals, tutorials on GitHub.
