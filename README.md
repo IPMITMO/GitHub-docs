@@ -12,6 +12,7 @@ Here you can find docs, manuals, tutorials on GitHub.
 * GitEveryDay: https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html
 * GitHub for Developers: https://vimeo.com/187834848/3cea5e40ed
 * Jekyll plugins: http://jekyllrb.com/docs/plugins/
+* Streaking With Github: Avoid These Mistakes: https://www.natashatherobot.com/streak-github-mistakes/
 
 ## In Russian
 * Как начать работать с GitHub: быстрый старт: https://habrahabr.ru/post/125799/
